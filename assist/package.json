@@ -1,0 +1,10 @@
+{
+  "name": "cby.assist",
+  "author": "chenboyang",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "jsts": "^1.6.0"
+  }
+}
